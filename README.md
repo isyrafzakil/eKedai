@@ -1,24 +1,8 @@
-# README
+# eKedai
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+My second Ruby on Rails app!
 
-Things you may want to cover:
+'Kedai' is a Malay word that means shop. eKedai is an e-commerce app that I created when I learn Ruby on Rails with Udemy. 
 
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+* Ruby version: 2.4.0
+* Rails version: 5.1.3
