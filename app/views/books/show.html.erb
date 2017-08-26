@@ -6,11 +6,11 @@
   <%= image_tag "cover.jpg", class: 'img-responsive' %>
   </div>
 
-  <div class='col-md-6'>
+  <div class='col-md-6 text-center'>
 
   <h3><strong><%= @book.name %> by <%= @book.author %></strong></h3>
   <p><%= @book.description %></p>
-  <p class='text-center'><strong>$<%= @book.price/100 %></strong></p>
+  <p><strong>$<%= @book.price/100 %></strong></p>
 
 
   </div>
